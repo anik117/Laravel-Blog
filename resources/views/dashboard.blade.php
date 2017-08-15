@@ -9,7 +9,7 @@
 
                 <div class="panel-body">
                     <a class="btn btn-primary" href="/posts/create">Create Post</a>
-                    <h3>Your Blog Posts</h3>
+                    <h3>Your All Blog Posts</h3>
                 </div>
             </div>
         </div>
