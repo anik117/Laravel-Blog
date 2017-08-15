@@ -1,0 +1,28 @@
+.index-jumbotron{
+  background: #ECF0F1;
+  border-radius: 0 !important;
+}
+
+.my-btn{
+  border-radius: 0;
+  border: none;
+  &.btn-primary{
+    background: #5659C9;
+    &:active{
+      background: #5659C9;
+    }
+  }
+  &.btn-success{
+    background: #00B5B5;
+    &:active{
+      background: #00B5B5;
+    }
+  }
+  &:hover{
+    opacity: 0.9;
+  }
+}
+
+.well{
+    background-color: #fff !important;
+}
