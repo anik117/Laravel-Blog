@@ -28,5 +28,9 @@ body{
 }
 
 .well{
-    background-color: #fff !important;
+  background-color: #fff !important;
+  border: 2px solid #ccd3dc;
+  border-radius: 0;
+  padding: 30px;
+  line-height: 2.5em;
 }
