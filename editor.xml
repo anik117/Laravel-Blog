@@ -1,8 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Consolas" />
-    <option name="LINE_SPACING" value="1.3" />
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Menlo" />
+    <option name="LINE_SPACING" value="1.5" />
   </component>
   <component name="EditorSettings">
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
