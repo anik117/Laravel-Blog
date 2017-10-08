@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="64ffda" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="64ffda" />
