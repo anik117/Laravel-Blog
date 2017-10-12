@@ -1,12 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="64ffda" />
-    <option name="isContrastMode" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isMaterialDesign" value="false" />
-    <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="64ffda" />
+    <option name="useProjectViewDecorators" value="false" />
     <option name="tabsHeight" value="50" />
-    <option name="isCompactStatusBar" value="true" />
+    <option name="defaultBackground" value="" />
   </component>
 </application>
