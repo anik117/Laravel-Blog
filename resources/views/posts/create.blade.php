@@ -11,6 +11,8 @@
             {{Form::label('body', 'Body')}}
             {{form::textarea('body', '', ['id' => 'article-ckeditor', 'class' => 'form-control', 'placeholder'=> 'Body Text'])}}
         </div>
-        <div>{{Form::submit('Submit', ['class' => 'btn btn-primary'])}}</div>
+        <div>
+            {{Form::submit('Submit', ['class' => 'btn btn-primary'])}}
+        </div>
     {!! Form::close() !!}
 @endsection

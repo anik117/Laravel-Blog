@@ -20,6 +20,8 @@
             @include('inc.messages')
             @yield('content')
         </div>
+
+        @yield('script')
     </div>
 
     <!-- Scripts -->
