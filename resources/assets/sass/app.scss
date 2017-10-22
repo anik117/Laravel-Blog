@@ -5,11 +5,11 @@
 // Variables
 @import "variables";
 
-// Bootstrap
-@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+// Bootstrap 3.3.7
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
 
-// Materialize
-//@import "~materialize-css";
+// Custom bootswatch paper theme
+@import "bootswatch";
 
-// Custom
+// My Custom
 @import "custom";
